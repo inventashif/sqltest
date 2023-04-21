@@ -1,0 +1,23 @@
+POST /en/find HTTP/1.1
+Host: www.crans-montana.ch
+Connection: keep-alive
+Content-Length: 9
+Cache-Control: max-age=0
+sec-ch-ua: "Chromium";v="111", "Not(A:Brand";v="8"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Upgrade-Insecure-Requests: 1
+Origin: https://www.crans-montana.ch
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://www.crans-montana.ch/en/find
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _gcl_au=1.1.871163738.1681950782; _fbp=fb.1.1681950864695.1755585348; _gid=GA1.2.522408762.1682039548; _clck=1fsh7yu|1|fay|0; ln_or=eyIyMzQ4MDgxIjoiZCJ9; _tt_enable_cookie=1; _ttp=0Ff192F8YNhzsjYNFHFRn5uEMyt; outdomaine=www.crans-montana.ch%2Fbooknow; PHPSESSID=i3b40aod95kvv77lu02bcdvc51; _gat_UA-4739296-4=1; _ga=GA1.1.1557896249.1681950802; _ga_KVP326D5P5=GS1.1.1682069009.5.1.1682069984.59.0.0; _clsk=1n6qnve|1682069987203|9|1|q.clarity.ms/collect
+
+find=Test
